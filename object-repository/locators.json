@@ -1,0 +1,19 @@
+{
+
+    "login": {
+        "makeAppointmentButton": "#btn-make-appointment",
+        "username": "#txt-username",
+        "password": "#txt-password",
+        "loginButton": "#btn-login"
+    },
+    
+    "makeAppointment": {
+        "comboFacilityDropdown": "#combo_facility",
+        "medicAidRadioButton": "#radio_program_medicaid",
+        "visitDate": "#txt_visit_date",
+        "textComment": "#txt_comment",
+        "bookAppointmentButton": "#btn-book-appointment"
+    }
+
+
+}
